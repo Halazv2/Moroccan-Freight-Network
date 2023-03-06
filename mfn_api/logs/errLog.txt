@@ -1,0 +1,61 @@
+20230126	10:29:27	0d8718d8-4f24-4080-8b09-e396a27213b3	Error: ENOENT: no such file or directory, stat 'C:\wamp64\www\Meteo_App\Api\views\404.html'
+20230126	10:30:13	806bafe8-1a40-4c58-a2a2-3706c4acd727	Error: ENOENT: no such file or directory, stat 'C:\wamp64\www\Meteo_App\Api\views\404.html'
+20230126	10:30:54	341aa582-5638-4ca2-af6d-526b30bd5357	ReferenceError: fetch is not defined
+20230126	10:55:33	f30b4be9-0da6-4fe5-b976-f63f0507ca8c	TypeError: Assignment to constant variable.
+20230126	10:55:35	ad88a171-0fe3-40f5-b8a3-5f3bcd1db295	TypeError: Assignment to constant variable.
+20230126	10:59:01	5d144b8c-f0eb-418f-9cb0-27fd59bd0c5d	Error: ENOENT: no such file or directory, stat 'C:\wamp64\www\Meteo_App\Api\views\404.html'
+20230126	11:07:03	fc9c9b32-203d-4f87-b52b-c376c3a5eb63	Error: ENOENT: no such file or directory, stat 'C:\wamp64\www\Meteo_App\Api\views\404.html'
+20230126	11:07:06	3284d69e-ec75-4803-b2dc-76b8f4aebd10	Error: ENOENT: no such file or directory, stat 'C:\wamp64\www\Meteo_App\Api\views\404.html'
+20230126	11:08:24	c1066b83-2ac3-40c3-94ae-d86060143369	Error: ENOENT: no such file or directory, stat 'C:\wamp64\www\Meteo_App\Api\views\404.html'
+20230126	11:08:25	a3787789-4f0e-4336-b952-5b71cf9adf3d	Error: ENOENT: no such file or directory, stat 'C:\wamp64\www\Meteo_App\Api\views\404.html'
+20230126	11:08:32	6006d2c9-005c-4834-9462-ab43b92de49f	Error: ENOENT: no such file or directory, stat 'C:\wamp64\www\Meteo_App\Api\views\404.html'
+20230126	11:08:32	ed40b00d-0141-4514-a10d-bb00a6136ebe	Error: ENOENT: no such file or directory, stat 'C:\wamp64\www\Meteo_App\Api\views\404.html'
+20230126	11:11:45	a4b6622e-d6c2-419b-9c90-0f4beb38813b	Error: ENOENT: no such file or directory, stat 'C:\wamp64\www\Meteo_App\Api\views\404.html'
+20230126	12:05:36	db6e712b-f4d7-47b5-8f01-5e742ed7166b	Error: ENOENT: no such file or directory, stat 'C:\wamp64\www\Meteo_App\Api\views\404.html'
+20230127	10:47:44	fa0d07d1-b8c6-4622-bf44-566b95105a71	Error: Not allowed by CORS
+20230127	14:55:22	415e1a79-078a-48f8-8ba5-e7cdf7954353	Error: Not allowed by CORS
+20230216	10:46:16	d79e186d-6e28-451e-940a-efb8463045bb	Error: ENOENT: no such file or directory, stat 'C:\wamp64\www\E-Scooter\Api\views\404.html'
+20230216	11:59:14	124685e8-bead-4509-b78d-e77c2b081032	Error: ENOENT: no such file or directory, stat 'C:\wamp64\www\E-Scooter\Api\views\404.html'
+20230216	11:59:14	89344857-11a9-41a5-8e8c-31542a7e0ec2	Error: ENOENT: no such file or directory, stat 'C:\wamp64\www\E-Scooter\Api\views\404.html'
+20230216	11:59:44	d09f888b-32bc-4729-b273-5f155839d9a3	Error: ENOENT: no such file or directory, stat 'C:\wamp64\www\E-Scooter\Api\views\404.html'
+20230216	11:59:45	7afceb69-3dce-4a75-82e6-1d362c4c87df	Error: ENOENT: no such file or directory, stat 'C:\wamp64\www\E-Scooter\Api\views\404.html'
+20230216	12:00:01	4b2caa7f-2ed4-452a-a6d9-638053cf87b7	Error: ENOENT: no such file or directory, stat 'C:\wamp64\www\E-Scooter\Api\views\404.html'
+20230216	12:00:02	079aa179-b446-40c2-8024-c25d16f0701f	Error: ENOENT: no such file or directory, stat 'C:\wamp64\www\E-Scooter\Api\views\404.html'
+20230216	12:00:21	57a5b744-6c02-4b84-8b97-3ac49e48ead1	Error: ENOENT: no such file or directory, stat 'C:\wamp64\www\E-Scooter\Api\views\404.html'
+20230216	12:00:22	e143fdcc-04c8-4815-a944-d9c38c7cd26e	Error: ENOENT: no such file or directory, stat 'C:\wamp64\www\E-Scooter\Api\views\404.html'
+20230216	12:01:22	b4751cc4-0cd8-4b49-bb7c-9820655cbc4d	Error: ENOENT: no such file or directory, stat 'C:\wamp64\www\E-Scooter\Api\views\404.html'
+20230216	12:01:23	85dcc0a1-a3f5-4c72-aa01-0be28a206365	Error: ENOENT: no such file or directory, stat 'C:\wamp64\www\E-Scooter\Api\views\404.html'
+20230216	12:01:45	21f73a5b-bd3a-40ac-9aaa-69ffab5e6b16	Error: ENOENT: no such file or directory, stat 'C:\wamp64\www\E-Scooter\Api\views\404.html'
+20230216	12:01:45	435a4f81-c761-4d46-a80c-627718e19eb5	Error: ENOENT: no such file or directory, stat 'C:\wamp64\www\E-Scooter\Api\views\404.html'
+20230216	12:01:54	9bf55f1c-69df-47bc-b8f7-1601afd424b5	Error: ENOENT: no such file or directory, stat 'C:\wamp64\www\E-Scooter\Api\views\404.html'
+20230216	12:01:55	87ad6071-bdef-4434-a4cf-4ae49ac0d938	Error: ENOENT: no such file or directory, stat 'C:\wamp64\www\E-Scooter\Api\views\404.html'
+20230216	13:52:21	bc017caa-adf0-41aa-9c8b-7e1527c43ad3	Error: ENOENT: no such file or directory, stat 'C:\wamp64\www\E-Scooter\Api\views\404.html'
+20230216	13:52:22	625b3931-2fc2-4109-af75-7c3bcbbf504c	Error: ENOENT: no such file or directory, stat 'C:\wamp64\www\E-Scooter\Api\views\404.html'
+20230302	10:05:45	c6f8cf3e-ba8e-4065-9ad8-179945ca32bf	Error: Not allowed by CORS
+20230302	10:05:47	080882f9-f48a-432e-be81-b45b819684e4	Error: Not allowed by CORS
+20230302	10:05:47	08717f3c-b8f3-43f2-8e2e-2c7809f0ef2b	Error: Not allowed by CORS
+20230302	10:05:51	aea35dfc-095c-4acf-b83d-bb2e701645b3	Error: Not allowed by CORS
+20230302	10:05:51	71eaf92a-cddf-4286-8269-1f78784fce67	Error: Not allowed by CORS
+20230302	10:05:51	db4e5053-6df5-4d1f-9937-0ff5d6c3131c	Error: Not allowed by CORS
+20230302	10:05:52	67523858-dcf4-48cd-9ce5-b7558b62ac0e	Error: Not allowed by CORS
+20230302	10:05:54	49ee5c76-251d-4e18-9064-85958db4cfd7	Error: Not allowed by CORS
+20230302	10:05:55	36bea51a-19d0-4b64-af6e-fa8735b6404a	Error: Not allowed by CORS
+20230302	10:05:55	cc7562a1-b043-41b7-b4d4-623b31813b80	Error: Not allowed by CORS
+20230302	10:05:55	f43c4034-9ba0-41e5-bf1b-5358b30954f7	Error: Not allowed by CORS
+20230302	10:05:55	2c68779b-652d-48c3-872c-c5357cccc658	Error: Not allowed by CORS
+20230302	10:05:56	25419e6d-d484-4b8d-9e80-79dd44811af1	Error: Not allowed by CORS
+20230302	10:05:57	118d7f24-00f2-4e5e-a632-3f977676f9ff	Error: Not allowed by CORS
+20230302	10:05:58	42c404af-c35e-4666-a6b0-a9922e1e882f	Error: Not allowed by CORS
+20230302	10:05:58	7a14cfe3-7c0b-4156-b6db-408dfa9bc0ad	Error: Not allowed by CORS
+20230302	10:05:58	3306506e-23d1-4678-9f66-93904328043a	Error: Not allowed by CORS
+20230302	10:05:58	68da3bb5-777f-4d18-a109-07bc0b3e63e0	Error: Not allowed by CORS
+20230302	10:05:59	401ce8e7-399a-4854-8f75-1ea2de23c340	Error: Not allowed by CORS
+20230302	10:05:59	d8aee310-aef2-4fc8-9a03-8a34047a4358	Error: Not allowed by CORS
+20230302	10:05:59	031d6001-2c6b-4f64-a7ff-2ce85d2cc55c	Error: Not allowed by CORS
+20230302	10:06:00	61d3580b-5bd4-42a1-b2f0-bb9593e7b018	Error: Not allowed by CORS
+20230302	10:06:00	25ccd9dc-50a6-41e9-8766-42cce6ebab09	Error: Not allowed by CORS
+20230302	10:06:00	9fe67b00-0253-44db-98d7-7747b223d0c7	Error: Not allowed by CORS
+20230302	10:06:00	2995b3f1-294c-40fc-80dd-42db384d321c	Error: Not allowed by CORS
+20230302	10:06:09	cfbc7180-07c6-441b-929f-08df069747a9	Error: Not allowed by CORS
+20230302	11:08:39	a1fcb835-3ac8-476b-a8e0-f6c907c81a38	Error: ENOENT: no such file or directory, stat 'C:\Users\ayoub\Documents\_swap\swap_api\views\404.html'
+20230306	11:08:57	801a2e4f-696a-4e56-a4da-bc989dadf7f9	Error: ENOENT: no such file or directory, stat 'C:\Users\ayoub\Documents\_MFN_\mfn_api\views\404.html'
