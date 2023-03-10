@@ -14,6 +14,7 @@ const CompanySchema = new Schema({
   pwd: requiredString,
   manager: requiredString,
   coord: [Number],
+  address: String,
   refreshToken: String,
 });
 

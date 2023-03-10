@@ -5,7 +5,7 @@ const jwt = require('jsonwebtoken');
 
 const handleLogin = async (req, res) => {
     const { ice, pwd } = req.body;
-    if (!ice || !pwd) return res.status(400).json({ 'message': 'All Champs are required.' });
+    if (!ice || !pwd) return res.status(200).json({ 'message': 'All Champs are required.' });
     const foundCompany = await Company.findOne({ ice: ice });
 
     if (!foundCompany) return res.status(200).json({ 'message': 'No account'});
